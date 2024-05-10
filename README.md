@@ -4,6 +4,10 @@
 
 ## Resources for Learning Data Structures & Algorithms
 > The following is a list of online courses and resources to help learn Data Structures & Algorithms. Note that these are not in order of completion.
+```bash
+  The following is a list of online courses and resources to help learn Data Structures & Algorithms. Note that these are not in order of completion.
+```
+
 - [Roadmap to learn DSA by Neetcode](https://neetcode.io/roadmap)
 - [Neetcode Courses](https://neetcode.io/courses)
 - [Python Data Structures & Algorithms + LEETCODE Exercises](https://www.udemy.com/course/data-structures-algorithms-python/?couponCode=ACCAGE0923)
