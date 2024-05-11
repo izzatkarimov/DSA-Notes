@@ -21,5 +21,10 @@
 - [Neetcode](https://neetcode.io/practice)
 - [TopSWE](https://topswe.com/)
 
-## Notes
+## Navigate Here
 - [Introduction to Data Strucutres](#introduction-to-data-structures)
+
+
+## Notes
+
+### Introduction to Data Structures
