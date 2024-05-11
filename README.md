@@ -20,3 +20,6 @@
 - [Leetcode](https://leetcode.com/)
 - [Neetcode](https://neetcode.io/practice)
 - [TopSWE](https://topswe.com/)
+
+## Notes
+- [Introduction to Data Strucutres](#introduction-to-data-structures)
