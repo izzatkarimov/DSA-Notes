@@ -20,6 +20,7 @@
 - [Leetcode](https://leetcode.com/)
 - [Neetcode](https://neetcode.io/practice)
 - [TopSWE](https://topswe.com/)
+- [LeetCode Patterns](https://seanprashad.com/leetcode-patterns/)
 
 ## Navigate Here
 - [Introduction to Data Strucutres](#introduction-to-data-structures)
