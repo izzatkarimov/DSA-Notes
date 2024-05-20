@@ -11,6 +11,7 @@
 - [The Last Algorithms Course You'll Need](https://frontendmasters.com/courses/algorithms/)
 - [Neetcode Videos on YouTube](https://www.youtube.com/@NeetCode)
 - [Coding Interview University](https://github.com/jwasham/coding-interview-university)
+- [Awesome Algorithms](https://github.com/tayllan/awesome-algorithms)
 
 ## Books
 - Cracking the Coding Interview
