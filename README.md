@@ -3,8 +3,8 @@
 ![Untitled design](https://github.com/izzatkarimov/DSA-Notes/assets/108251704/44dda9d8-a66b-45c8-a602-6487ff6fa762)
 
 ## Navigate Here
-- [Resources](#resources-to-learn-data-structures-and-algorithsm)
-- [Notes](notes)
+- [Resources](#resources-to-learn-data-structures-and-algorithms)
+- [Notes](#notes)
 
 ## Resources to learn Data Structures & Algorithms
 > The following is a list of online courses, YouTube videos, and websites to help learn Data Structures & Algorithms. Note that these are not in order of completion.
