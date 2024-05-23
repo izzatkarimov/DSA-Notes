@@ -3,7 +3,7 @@
 ![Untitled design](https://github.com/izzatkarimov/DSA-Notes/assets/108251704/44dda9d8-a66b-45c8-a602-6487ff6fa762)
 
 ## Navigate Here
-- [Resources](resources-to-learn-data-structures-and-algorithms)
+- [Resources](#resources-to-learn-data-structures-and-algorithsm)
 - [Notes](notes)
 
 ## Resources to learn Data Structures & Algorithms
