@@ -25,6 +25,7 @@
 
 ## Navigate Here
 - [Introduction to Data Strucutres](#introduction-to-data-structures)
+- [Algorithms](#algorithms)
 
 
 ## Notes
