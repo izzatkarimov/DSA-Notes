@@ -4,6 +4,12 @@
 
 ## Navigate Here
 - [Resources](#resources-to-learn-data-structures-&-algorithms)
+  - [Websites](#websites)
+  - [Courses](#courses)
+  - [YouTube Playlists](#youtube-playlists)
+  - [Github Repositories](#github-repositories)
+  - [Books](#books)
+  - [Practicing](#practicing)
 - [Notes](#notes)
 
 ## Resources to learn Data Structures & Algorithms
