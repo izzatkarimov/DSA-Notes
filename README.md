@@ -36,6 +36,8 @@
 ### Websites
 
 - [Roadmap to learn DSA by Neetcode](https://neetcode.io/roadmap)
+- [VisuAlgo](https://visualgo.net/en)
+- [Data Structure Visualization](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html)
 
 ### Courses
 
