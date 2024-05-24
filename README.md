@@ -30,13 +30,20 @@
 
 ### Courses
 
-- [Neetcode Courses](https://neetcode.io/courses) [Notes](#)
+- [Neetcode Courses](https://neetcode.io/courses)
+  - [Algorithms & Data Structures for Beginners Notes](#)
+  - [Advanced Algorithms Notes](#)
+  - [System Design for Beginners](#)
+  - [System Design Interview Notes](#)
 - [Python Data Structures & Algorithms + LEETCODE Exercises](https://www.udemy.com/course/data-structures-algorithms-python/?couponCode=ACCAGE0923)
+  - [Notes from the course](#)
 - [The Last Algorithms Course You'll Need](https://frontendmasters.com/courses/algorithms/)
+  - [Notes from the course](#)
 
 ### YouTube Playlists
 
 - [Algorithms and Data Structures Tutorial - Full Course for Beginners - FreeCodeCamp](https://youtu.be/8hly31xKli0?si=HmAgr-2AlG3hcRZp)
+- 
 - [Neetcode Videos on YouTube](https://www.youtube.com/@NeetCode)
 
 ### Github Repositories
