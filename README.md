@@ -30,7 +30,7 @@
 
 ### Courses
 
-- [Neetcode Courses](https://neetcode.io/courses)
+- [Neetcode Courses](https://neetcode.io/courses) [Notes](#)
 - [Python Data Structures & Algorithms + LEETCODE Exercises](https://www.udemy.com/course/data-structures-algorithms-python/?couponCode=ACCAGE0923)
 - [The Last Algorithms Course You'll Need](https://frontendmasters.com/courses/algorithms/)
 
