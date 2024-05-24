@@ -21,9 +21,6 @@
 ```
 </details>
 
-<details>
-<summary>Resources to Learn Data Structures & Algorithms</summary>
-
 ## Resources to learn Data Structures & Algorithms
 > The following is a list of online courses, YouTube videos, and websites to help learn Data Structures & Algorithms. Note that these are not in order of completion.
 
@@ -56,8 +53,6 @@
 - [Neetcode](https://neetcode.io/practice)
 - [TopSWE](https://topswe.com/)
 - [LeetCode Patterns](https://seanprashad.com/leetcode-patterns/)
-
-</details>
 
 ## Notes
 
