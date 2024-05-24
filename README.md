@@ -63,3 +63,43 @@
 - [LeetCode Patterns](https://seanprashad.com/leetcode-patterns/)
 
 ## Notes
+
+### Algorithms & Data Structures for Beginners - NeetCode
+
+> [!NOTE]
+> Coming Soon.
+
+### Advanced Algorithms - NeetCode
+
+> [!NOTE]
+> Coming Soon.
+
+### System Design for Beginners - NeetCode
+
+> [!NOTE]
+> Coming Soon.
+
+### System Design Interview - NeetCode
+
+> [!NOTE]
+> Coming Soon.
+
+### Python Data Structures & Algorithms + LEETCODE EXERCISES
+
+> [!NOTE]
+> Coming Soon.
+
+### The Last Algorithms Course You'll Need
+
+> [!NOTE]
+> Coming Soon.
+
+### Algorithms and Data Structures Tutorila - FreeCodeCamp
+
+> [!NOTE]
+> Coming Soon.
+
+### NeetCode YouTube Videos
+
+> [!NOTE]
+> Coming Soon.
