@@ -2,6 +2,22 @@
 
 ![Untitled design](https://github.com/izzatkarimov/DSA-Notes/assets/108251704/44dda9d8-a66b-45c8-a602-6487ff6fa762)
 
+<details>
+
+<summary>Tips for collapsed sections</summary>
+
+### You can add a header
+
+You can add text within a collapsed section. 
+
+You can add an image or a code block, too.
+
+```ruby
+   puts "Hello World"
+```
+
+</details>
+
 ## Navigate Here
 - [Resources](#resources-to-learn-data-structures--algorithms)
   - [Websites](#websites)
