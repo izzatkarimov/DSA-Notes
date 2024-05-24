@@ -6,7 +6,7 @@
 
 <details>
 
-<summary> **Navigate Below** </summary>
+<summary>**Navigate Below**</summary>
 
 - [Resources](#resources-to-learn-data-structures--algorithms)
   - [Websites](#websites)
