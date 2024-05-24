@@ -15,6 +15,15 @@
   - [Books](#books)
   - [Practicing](#practicing)
 - [Notes](#notes)
+  - [Algorithms & Data Structures for Beginners Notes](#algorithms--data-structures-for-beginners---neetcode)
+  - [Advanced Algorithms Notes](#advanced-algorithms---neetcode)
+  - [System Design for Beginners](#system-design-for-beginners---neetcode)
+  - [System Design Interview Notes](#system-design-interview---neetcode)
+  - [Notes from the course](#python-data-structures--algorithms--leetcode-exercises)
+  - [Notes from the course](#the-last-algorithms-course-youll-need)
+  - [Notes from the video](#algorithms-and-data-structures-tutorila---freecodecamp)
+  - [Notes from the videos](#neetcode-youtube-videos)
+
 
 ```ruby
    "Have Fun Learning"
