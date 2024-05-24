@@ -43,8 +43,9 @@
 ### YouTube Playlists
 
 - [Algorithms and Data Structures Tutorial - Full Course for Beginners - FreeCodeCamp](https://youtu.be/8hly31xKli0?si=HmAgr-2AlG3hcRZp)
-- 
+  - [Notes from the video](#)
 - [Neetcode Videos on YouTube](https://www.youtube.com/@NeetCode)
+  - [Notes from the videos](#)
 
 ### Github Repositories
 
@@ -62,5 +63,3 @@
 - [LeetCode Patterns](https://seanprashad.com/leetcode-patterns/)
 
 ## Notes
-
-### Introduction to Data Structures
