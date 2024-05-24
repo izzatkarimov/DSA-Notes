@@ -17,7 +17,7 @@
 - [Notes](#notes)
 
 ```ruby
-   puts "Have Fun Learning"
+   "Have Fun Learning"
 ```
 </details>
 
