@@ -4,21 +4,26 @@
 
 <details>
 
-<summary>Tips for collapsed sections</summary>
+<summary>Untoggle This to Navigate</summary>
 
-### You can add a header
+### Navigate Below:
 
-You can add text within a collapsed section. 
-
-You can add an image or a code block, too.
+- [Resources](#resources-to-learn-data-structures--algorithms)
+  - [Websites](#websites)
+  - [Courses](#courses)
+  - [YouTube Playlists](#youtube-playlists)
+  - [Github Repositories](#github-repositories)
+  - [Books](#books)
+  - [Practicing](#practicing)
+- [Notes](#notes)
 
 ```ruby
-   puts "Hello World"
+   puts "Have Fun Learning"
 ```
 
 </details>
 
-## Navigate Here
+## Navigation
 - [Resources](#resources-to-learn-data-structures--algorithms)
   - [Websites](#websites)
   - [Courses](#courses)
