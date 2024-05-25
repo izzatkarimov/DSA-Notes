@@ -32,8 +32,8 @@
 
 | Resources | Resource Type | Links |
 | --- | --- | --- |
-| git status | List all new or modified files | djdaois |
-| git diff | Show file differences that haven't been staged | dasdnsdnniundas |
+| NeetCode Roadmap | 'website' | djdaois |
+| VisuAlgo | 'website' | dasdnsdnniundas |
 
 ## Resources to learn Data Structures & Algorithms
 > The following is a list of online courses, YouTube videos, and websites to help learn Data Structures & Algorithms. Note that these are not in order of completion.
