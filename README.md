@@ -30,8 +30,8 @@
 ```
 </details>
 
-| Command | Links | Description |
-| - | - | ----- |
+| Resources | Resource Type | Links |
+| --- | --- | --- |
 | git status | List all new or modified files | djdaois |
 | git diff | Show file differences that haven't been staged | dasdnsdnniundas |
 
