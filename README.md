@@ -30,14 +30,15 @@
 ```
 </details>
 
-| Resources | Resource Type | Links |
-| --- | --- | --- |
-| NeetCode Roadmap | `website` | https://neetcode.io/roadmap |
-| VisuAlgo | `website` | https://visualgo.net/en |
-| Data Structure Visualization | `website` | https://www.cs.usfca.edu/~galles/visualization/Algorithms.html |
-
 ## Resources to learn Data Structures & Algorithms
 > The following is a list of online courses, YouTube videos, and websites to help learn Data Structures & Algorithms. Note that these are not in order of completion.
+
+| Resources | Resource Type | Links |
+| --- | --- | --- |
+| NeetCode Roadmap | `website` | [Link](https://neetcode.io/roadmap) |
+| VisuAlgo | `website` | [Link](https://visualgo.net/en) |
+| Data Structure Visualization | `website` | [Link](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html) |
+
 
 ### Websites
 
