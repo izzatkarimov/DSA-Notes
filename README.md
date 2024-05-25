@@ -35,10 +35,15 @@
 
 | Resources | Resource Type | Links |
 | --- | --- | --- |
-| NeetCode Roadmap | `website` | [Link](https://neetcode.io/roadmap) |
-| VisuAlgo | `website` | [Link](https://visualgo.net/en) |
-| Data Structure Visualization | `website` | [Link](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html) |
-
+| NeetCode Roadmap | `website` | [Website Link](https://neetcode.io/roadmap) |
+| VisuAlgo | `website` | [Website Link](https://visualgo.net/en) |
+| Data Structure Visualization | `website` | [Website Link](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html) |
+| NeetCode Courses | `course` | [Course Link](https://neetcode.io/courses) |
+| Python Data Structures & Algorithms + LEETCODE Exercises | `course` | [Course Link](https://www.udemy.com/course/data-structures-algorithms-python/?couponCode=ACCAGE0923) |
+| The Last Algorithms Course You'll Need | `course` | [Course Link](https://frontendmasters.com/courses/algorithms/) |
+| Algorithms and Data Structures Tutorial - Full Course for Beginners - FreeCodeCamp | `youtube-videos` | [Video Link](https://youtu.be/8hly31xKli0?si=HmAgr-2AlG3hcRZp) |
+| NeetCode YouTube Videos | `youtube-videos` | [Channel Link](https://www.youtube.com/@NeetCode) |
+| Coding Interview University | `github-repo` | [Repository Link](https://github.com/jwasham/coding-interview-university) |
 
 ### Websites
 
