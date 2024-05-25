@@ -33,7 +33,7 @@
 ## Resources to learn Data Structures & Algorithms
 > The following is a list of online courses, YouTube videos, and websites to help learn Data Structures & Algorithms. Note that these are not in order of completion.
 
-| Resources | Resource Type | Links |
+| All Resources in One Place | Resource Type | Links |
 | --- | --- | --- |
 | NeetCode Roadmap | `website` | [Website Link](https://neetcode.io/roadmap) |
 | VisuAlgo | `website` | [Website Link](https://visualgo.net/en) |
