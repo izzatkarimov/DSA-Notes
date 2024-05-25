@@ -35,6 +35,10 @@
 
 | All Resources in One Place | Resource Type | Links |
 | --- | --- | --- |
+| LeetCode | `website`| [Website Link](https://leetcode.com) |
+| NeetCode| `website`| [Website Link](https://neetcode.io/practice) |
+| TopSWE | `website`| [Website Link](https://topswe.com/) |
+| LeetCode Patterns | `website` | [Website Link](https://seanprashad.com/leetcode-patterns/) |
 | NeetCode Roadmap | `website` | [Website Link](https://neetcode.io/roadmap) |
 | VisuAlgo | `website` | [Website Link](https://visualgo.net/en) |
 | Data Structure Visualization | `website` | [Website Link](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html) |
@@ -44,6 +48,7 @@
 | Algorithms and Data Structures Tutorial - Full Course for Beginners - FreeCodeCamp | `youtube-videos` | [Video Link](https://youtu.be/8hly31xKli0?si=HmAgr-2AlG3hcRZp) |
 | NeetCode YouTube Videos | `youtube-videos` | [Channel Link](https://www.youtube.com/@NeetCode) |
 | Coding Interview University | `github-repo` | [Repository Link](https://github.com/jwasham/coding-interview-university) |
+| Awesome Algorithms | `github-repo` | [Repository Link](https://github.com/tayllan/awesome-algorithms) |
 
 ### Websites
 
