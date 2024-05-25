@@ -30,6 +30,11 @@
 ```
 </details>
 
+| Resources | Types | Links |
+| --- | --- |
+| git status | List all new or modified files |
+| git diff | Show file differences that haven't been staged |
+
 ## Resources to learn Data Structures & Algorithms
 > The following is a list of online courses, YouTube videos, and websites to help learn Data Structures & Algorithms. Note that these are not in order of completion.
 
