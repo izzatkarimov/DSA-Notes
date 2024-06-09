@@ -71,7 +71,7 @@
 ### YouTube Playlists
 
 - [Algorithms and Data Structures Tutorial - Full Course for Beginners - FreeCodeCamp](https://youtu.be/8hly31xKli0?si=HmAgr-2AlG3hcRZp)
-  - [Notes from the video](#algorithms-and-data-structures-tutorila---freecodecamp)
+  - [Notes from the video](#algorithms-and-data-structures-tutorial---freecodecamp)
 - [Neetcode Videos on YouTube](https://www.youtube.com/@NeetCode)
   - [Notes from the videos](#neetcode-youtube-videos)
 
