@@ -122,7 +122,7 @@
 > [!NOTE]
 > Coming Soon.
 
-### Algorithms and Data Structures Tutorila - FreeCodeCamp
+### Algorithms and Data Structures Tutorial - FreeCodeCamp
 
 > [!NOTE]
 > Coming Soon.
