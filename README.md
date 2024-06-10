@@ -126,11 +126,11 @@
 
 <details>
 <summary>Introduction to Algorithms</summary>
-  * What is an Algorithm - An Algorithm is a set of steps or instructions for completing a certain task. For example, a recipe is an algorithm. To-Do List for a Morning Routine is an algorithm. However, in the context of Computer Science, an algorithm more specifically means a set a steps a program takes to finish a certain task.
-  * Time Complexity - Time Complexity is a measure of how long it takes the algorithm to run.
-  * Space Complexity - Space Complexity deals with the amount of memory taken up on the computer.
-  * Balance between Time & Space Complexity -  A good algorithm needs to balance between Time and Space Complexity to be useful. For example, you can have a very fast algorithm but it may not matter if the algorithm consumes more memory than you have available.
-  * Running Time of an Algorithm - 
+  - What is an Algorithm - An Algorithm is a set of steps or instructions for completing a certain task. For example, a recipe is an algorithm. To-Do List for a Morning Routine is an algorithm. However, in the context of Computer Science, an algorithm more specifically means a set a steps a program takes to finish a certain task.
+  - Time Complexity - Time Complexity is a measure of how long it takes the algorithm to run.
+  - Space Complexity - Space Complexity deals with the amount of memory taken up on the computer.
+  - Balance between Time & Space Complexity -  A good algorithm needs to balance between Time and Space Complexity to be useful. For example, you can have a very fast algorithm but it may not matter if the algorithm consumes more memory than you have available.
+  - Running Time of an Algorithm - 
 </details>
 
 <details>
