@@ -125,7 +125,7 @@
 ### Algorithms and Data Structures Tutorial - FreeCodeCamp
 
 <details>
-<summary>Introduction to Algorithms</summary>
+<summary>**Introduction to Algorithms**</summary>
   
   - What is an Algorithm - An Algorithm is a set of steps or instructions for completing a certain task. For example, a recipe is an algorithm. To-Do List for a Morning Routine is an algorithm. However, in the context of Computer Science, an algorithm more specifically means a set a steps a program takes to finish a certain task.
   - Time Complexity - Time Complexity is a measure of how long it takes the algorithm to run.
