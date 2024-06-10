@@ -125,7 +125,13 @@
 ### Algorithms and Data Structures Tutorial - FreeCodeCamp
 
 <details>
-<summary>Navigate Below</summary>
+<summary>Introduction to Algorithms</summary>
+</details>
+<details>
+<summary>Introduction to Data Structures</summary>
+</details>
+<details>
+<summary>Alogithms: Sorting and Searching</summary>
 </details>
 
 ### NeetCode YouTube Videos
