@@ -132,12 +132,19 @@
   ### Introduction to Algorithms
   ----
   - `What is an Algorithm` - An Algorithm is a set of steps or instructions for completing a certain task. For example, a recipe is an algorithm. To-Do List for a Morning Routine is an algorithm. However, in the context of Computer Science, an algorithm more specifically means a set a steps a program takes to finish a certain task.
+
   - `Time Complexity` - Time Complexity is a measure of how long it takes the algorithm to run.
+
   - `Space Complexity` - Space Complexity deals with the amount of memory taken up on the computer.
+  
   - `Balance between Time & Space Complexity` -  A good algorithm needs to balance between Time and Space Complexity to be useful. For example, you can have a very fast algorithm but it may not matter if the algorithm consumes more memory than you have available.
+  
   - `Running Time of an Algorithm` - How long the algorithm runs for a given set of values until the output is called The Running Time or The Running Time of an Algorithm and is used to define Time Complexity.
+  
   - `Linear Search (Sequential Search)` - Linear Search is a sequential searching algorithm where we start from one end and check every element of the list until the desired element is found. It is the simplest searching algorithm.
+  
   - `Binary Search (Hald Interval Search)` - Binary Search is a searching algorithm for finding an element's position in a sorted way. In this approach, the element is always searched in the middle of a portion of an array. Binary Search can be implemented only on a sorted list of items. If the elements are not sorted already, we need to sort them first.
+  
   - `Guidelines for defiing an Algorithm:`
       - The steps in the Algorithm need to be in a specific order.
       - The steps also need to be distinct.
