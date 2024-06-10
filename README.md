@@ -126,10 +126,14 @@
 
 <details>
 <summary>Introduction to Algorithms</summary>
+  `What is an Algorithm` - An Algorithm is a set of steps or instructions for completing a certain task. For example, a recipe is an algorithm. To-Do List for a Morning Routine is an algorithm. However, in the context of Computer Science, an algorithm more specifically means a set a steps a program takes to finish a certain task.
+  ``
 </details>
+
 <details>
 <summary>Introduction to Data Structures</summary>
 </details>
+
 <details>
 <summary>Alogithms: Sorting and Searching</summary>
 </details>
