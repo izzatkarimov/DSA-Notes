@@ -5,6 +5,14 @@
 ## Navigation
 
 <details>
+<summary>
+Installation
+</summary>
+
+## Installation
+</details>
+
+<details>
 <summary>Navigate Below</summary>
 
 - [Resources](#resources-to-learn-data-structures--algorithms)
