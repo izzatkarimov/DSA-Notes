@@ -33,8 +33,8 @@
 ## Resources to learn Data Structures & Algorithms
 > The following is a list of online courses, YouTube videos, and websites to help learn Data Structures & Algorithms. Note that these are not in order of completion.
 
-| All Resources in One Place | Resource Type | Links |
-| --- | --- | --- |
+| All Resources in One Place | Resource Type | Links | Notes |
+| --- | --- | --- | --- |
 | LeetCode | `website`| [Website Link](https://leetcode.com) |
 | NeetCode| `website`| [Website Link](https://neetcode.io/practice) |
 | TopSWE | `website`| [Website Link](https://topswe.com/) |
@@ -45,7 +45,7 @@
 | NeetCode Courses | `course` | [Course Link](https://neetcode.io/courses) |
 | Python Data Structures & Algorithms + LEETCODE Exercises | `course` | [Course Link](https://www.udemy.com/course/data-structures-algorithms-python/?couponCode=ACCAGE0923) |
 | The Last Algorithms Course You'll Need | `course` | [Course Link](https://frontendmasters.com/courses/algorithms/) |
-| Algorithms and Data Structures Tutorial - Full Course for Beginners - FreeCodeCamp | `youtube-videos` | [Video Link](https://youtu.be/8hly31xKli0?si=HmAgr-2AlG3hcRZp) |
+| Algorithms and Data Structures Tutorial - Full Course for Beginners - FreeCodeCamp | `youtube-videos` | [Video Link](https://youtu.be/8hly31xKli0?si=HmAgr-2AlG3hcRZp) | [Notes](https://github.com/izzatkarimov/DSA-Notes?tab=readme-ov-file#algorithms-and-data-structures-tutorial---freecodecamp) |
 | NeetCode YouTube Videos | `youtube-videos` | [Channel Link](https://www.youtube.com/@NeetCode) |
 | Coding Interview University | `github-repo` | [Repository Link](https://github.com/jwasham/coding-interview-university) |
 | Awesome Algorithms | `github-repo` | [Repository Link](https://github.com/tayllan/awesome-algorithms) |
