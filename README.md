@@ -124,8 +124,9 @@
 
 ### Algorithms and Data Structures Tutorial - FreeCodeCamp
 
-> [!NOTE]
-> Coming Soon.
+<details>
+<summary>Navigate Below</summary>
+</details>
 
 ### NeetCode YouTube Videos
 
