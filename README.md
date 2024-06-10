@@ -45,7 +45,7 @@
 | NeetCode Courses | `course` | [Course Link](https://neetcode.io/courses) |
 | Python Data Structures & Algorithms + LEETCODE Exercises | `course` | [Course Link](https://www.udemy.com/course/data-structures-algorithms-python/?couponCode=ACCAGE0923) |
 | The Last Algorithms Course You'll Need | `course` | [Course Link](https://frontendmasters.com/courses/algorithms/) |
-| Algorithms and Data Structures Tutorial - Full Course for Beginners - FreeCodeCamp | `youtube-videos` | [Video Link](https://youtu.be/8hly31xKli0?si=HmAgr-2AlG3hcRZp) | [Notes](#algorithms-and-data-structures-tutorial---freecodecam) |
+| Algorithms and Data Structures Tutorial - Full Course for Beginners - FreeCodeCamp | `youtube-videos` | [Video Link](https://youtu.be/8hly31xKli0?si=HmAgr-2AlG3hcRZp) | [Notes](#algorithms-and-data-structures-tutorial---freecodecamp) |
 | NeetCode YouTube Videos | `youtube-videos` | [Channel Link](https://www.youtube.com/@NeetCode) |
 | Coding Interview University | `github-repo` | [Repository Link](https://github.com/jwasham/coding-interview-university) |
 | Awesome Algorithms | `github-repo` | [Repository Link](https://github.com/tayllan/awesome-algorithms) |
