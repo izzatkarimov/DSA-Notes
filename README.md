@@ -45,7 +45,7 @@
 | NeetCode Courses | `course` | [Course Link](https://neetcode.io/courses) |
 | Python Data Structures & Algorithms + LEETCODE Exercises | `course` | [Course Link](https://www.udemy.com/course/data-structures-algorithms-python/?couponCode=ACCAGE0923) |
 | The Last Algorithms Course You'll Need | `course` | [Course Link](https://frontendmasters.com/courses/algorithms/) |
-| Algorithms and Data Structures Tutorial - Full Course for Beginners - FreeCodeCamp | `youtube-videos` | [Video Link](https://youtu.be/8hly31xKli0?si=HmAgr-2AlG3hcRZp) | [Notes](https://github.com/izzatkarimov/DSA-Notes?tab=readme-ov-file#algorithms-and-data-structures-tutorial---freecodecamp) |
+| Algorithms and Data Structures Tutorial - Full Course for Beginners - FreeCodeCamp | `youtube-videos` | [Video Link](https://youtu.be/8hly31xKli0?si=HmAgr-2AlG3hcRZp) | [Notes](#algorithms-and-data-structures-tutorial---freecodecam) |
 | NeetCode YouTube Videos | `youtube-videos` | [Channel Link](https://www.youtube.com/@NeetCode) |
 | Coding Interview University | `github-repo` | [Repository Link](https://github.com/jwasham/coding-interview-university) |
 | Awesome Algorithms | `github-repo` | [Repository Link](https://github.com/tayllan/awesome-algorithms) |
@@ -127,7 +127,7 @@
 <details>
 <summary>Introduction to Algorithms</summary>
 
-  #### Introduction to Algorithms
+  ### Introduction to Algorithms
   ----
   - What is an Algorithm - An Algorithm is a set of steps or instructions for completing a certain task. For example, a recipe is an algorithm. To-Do List for a Morning Routine is an algorithm. However, in the context of Computer Science, an algorithm more specifically means a set a steps a program takes to finish a certain task.
   - Time Complexity - Time Complexity is a measure of how long it takes the algorithm to run.
