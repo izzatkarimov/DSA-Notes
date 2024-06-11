@@ -98,7 +98,8 @@
 
 <details>
 <summary>Arrays</summary>
-
+----
+  
   `What is Data Structure?`
   - Data Structure is a way of structuring data inside of RAM of a computer.
 
