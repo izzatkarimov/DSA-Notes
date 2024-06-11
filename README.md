@@ -44,7 +44,7 @@
 | Data Structure Visualizations | `website` | [Website Link](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html) |
 | Big-O CheatSheet | `website` | [Website Link](https://www.bigocheatsheet.com/) |
 | Data Structure Visualization | `website` | [Website Link](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html) |
-| NeetCode Courses | `course` | [Course Link](https://neetcode.io/courses) |
+| NeetCode Courses | `course` | [Course Link](https://neetcode.io/courses) | [Notes](#algorithms--data-structures-for-beginners---neetcode)
 | Python Data Structures & Algorithms + LEETCODE Exercises | `course` | [Course Link](https://www.udemy.com/course/data-structures-algorithms-python/?couponCode=ACCAGE0923) |
 | The Last Algorithms Course You'll Need | `course` | [Course Link](https://frontendmasters.com/courses/algorithms/) |
 | Algorithms and Data Structures Tutorial - Full Course for Beginners - FreeCodeCamp | `youtube-videos` | [Video Link](https://youtu.be/8hly31xKli0?si=HmAgr-2AlG3hcRZp) | [Notes](#algorithms-and-data-structures-tutorial---freecodecamp) |
