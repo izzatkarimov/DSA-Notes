@@ -110,6 +110,17 @@
   `NOTE!`
   > Arrays are always stored contiguously in RAM, meaning that they are stored one next to another (there is nothing between them.
 
+  `NOTE!`
+  > Static arrays are Fixed arrays. The biggest limitation of Static Arrays is that we cannot add / delete elements after creation. Technically, we can remove a value, but removing here only means overriding. We cannot actaully delete the value in memory. But, we can override by putting, let's say, 0 in the index location of it.
+
+  `Big O Time Complexity of Static Arrays Operations`
+  | Operation  | Big O Time |
+  | ------------- | ------------- |
+  | Read / Write i-th element  | O(1)  |
+  | Insert / Remove End | O(1)  |
+  | Insert Middle | O(n)  |
+  | Remove Middle  | O(n)  |
+
 </details>
 
 <details>
