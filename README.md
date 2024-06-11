@@ -101,9 +101,6 @@
   
 <br>
 
-  <details>
-  <summary>RAM</summary>
-
   `What is Data Structure?`
   - Data Structure is a way of structuring data inside of RAM of a computer.
 
@@ -112,7 +109,6 @@
 
   `NOTE!`
   > Arrays are always stored contiguously in RAM, meaning that they are stored one next to another (there is nothing between them.
-  </details>
 
   `NOTE!`
   > Static arrays are Fixed arrays. The biggest limitation of Static Arrays is that we cannot add / delete elements after creation. Technically, we can remove a value, but removing here only means overriding. We cannot actaully delete the value in memory. But, we can override by putting, let's say, 0 in the index location of it.
