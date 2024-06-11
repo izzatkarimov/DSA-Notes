@@ -110,6 +110,10 @@
   > [!NOTE]
   > Arrays are always stored contiguously in RAM, meaning that they are stored one next to another (there is nothing between them.
 
+> [!NOTE]
+> Useful information that users should know, even when skimming content.
+
+
 </details>
 
 <details>
