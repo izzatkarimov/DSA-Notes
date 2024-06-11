@@ -96,8 +96,53 @@
 
 ### Algorithms & Data Structures for Beginners - NeetCode
 
-> [!NOTE]
-> Coming Soon.
+<details>
+<summary>Arrays</summary>
+</details>
+
+<details>
+<summary>Linked List</summary>
+</details>
+
+<details>
+<summary>Recursion</summary>
+</details>
+
+<details>
+<summary>Sorting</summary>
+</details>
+
+<details>
+<summary>Binary Search</summary>
+</details>
+
+<details>
+<summary>Trees</summary>
+</details>
+
+<details>
+<summary>Backtracking</summary>
+</details>
+
+<details>
+<summary>Heap & Priority Queue</summary>
+</details>
+
+<details>
+<summary>Hashing</summary>
+</details>
+
+<details>
+<summary>Graphs</summary>
+</details>
+
+<details>
+<summary>Dynamic Programming</summary>
+</details>
+
+<details>
+<summary>Bit Manipulation</summary>
+</details>
 
 ### Advanced Algorithms - NeetCode
 
