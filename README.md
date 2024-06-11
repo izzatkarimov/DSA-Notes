@@ -98,6 +98,15 @@
 
 <details>
 <summary>Arrays</summary>
+
+  `What is Data Structure?`
+  - Data Structure is a way of structuring data inside of RAM of a computer.
+
+  `How do ew store an array in RAM?`
+  - RAM is measured in bytes. One byte is 8 bits. A bit can be thought of as a position that can store a digit, which has to be either 0 or 1.
+
+  - Arrays are always stored contiguously in RAM, meaning that they are stored one next to another (there is nothing between them).
+  
 </details>
 
 <details>
