@@ -107,9 +107,9 @@
   `How do ew store an array in RAM?`
   - RAM is measured in bytes. One byte is 8 bits. A bit can be thought of as a position that can store a digit, which has to be either 0 or 1.
 
-  `Note!`
-  > Arrays are always stored contiguously in RAM, meaning that they are stored one next to another (there is nothing between them).
-  
+  > [!NOTE]
+  > Arrays are always stored contiguously in RAM, meaning that they are stored one next to another (there is nothing between them.
+
 </details>
 
 <details>
