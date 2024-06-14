@@ -108,10 +108,10 @@
   - RAM is measured in bytes. One byte is 8 bits. A bit can be thought of as a position that can store a digit, which has to be either 0 or 1.
 
   `NOTE!`
-    > Arrays are always stored contiguously in RAM, meaning that they are stored one next to another (there is nothing between them.
+  > Arrays are always stored contiguously in RAM, meaning that they are stored one next to another (there is nothing between them.
 
   `NOTE!`
-    > Static arrays are Fixed arrays. The biggest limitation of Static Arrays is that we cannot add / delete elements after creation. Technically, we can remove a value, but removing here only means overriding. We cannot actaully delete the value in memory. But, we can override by putting, let's say, 0 in the index location of it.
+  > Static arrays are Fixed arrays. The biggest limitation of Static Arrays is that we cannot add / delete elements after creation. Technically, we can remove a value, but removing here only means overriding. We cannot actaully delete the value in memory. But, we can override by putting, let's say, 0 in the index location of it.
 
   `Big O Time Complexity of Static Arrays Operations`
   | Operation  | Big O Time |
