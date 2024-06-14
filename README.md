@@ -169,8 +169,35 @@
 
 ### Advanced Algorithms - NeetCode
 
-> [!NOTE]
-> Coming Soon.
+<details>
+<summary>Arrays</summary>
+</details>
+
+<details>
+<summary>Linked Lists</summary>
+</details>
+
+<details>
+<summary>Trees</summary>
+</details>
+
+<details>
+<summary>Heaps</summary>
+</details>
+
+<details>
+<summary>Backtracking</summary>
+</details>
+
+<details>
+<summary>Graphs</summary>
+</details>
+
+<details>
+<summary>Dynamic Programming</summary>
+</details>
+
+
 
 ### System Design for Beginners - NeetCode
 
