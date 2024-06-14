@@ -95,6 +95,7 @@
 ## Notes
 
 ### Algorithms & Data Structures for Beginners - NeetCode
+---
 
 <details>
 <summary>Arrays</summary>
