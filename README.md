@@ -2,7 +2,7 @@
 
 ![Untitled design](https://github.com/izzatkarimov/DSA-Notes/assets/108251704/44dda9d8-a66b-45c8-a602-6487ff6fa762)
 
-## Navigation
+## 🗺️ Navigation
 
 <details>
 <summary>Navigate Below</summary>
@@ -30,7 +30,7 @@
 ```
 </details>
 
-## Resources to learn Data Structures & Algorithms
+## 📚 Resources to learn Data Structures & Algorithms
 > The following is a list of online courses, YouTube videos, and websites to help learn Data Structures & Algorithms. Note that these are not in order of completion.
 
 | All Resources in One Place | Resource Type | Links | Notes |
@@ -52,13 +52,13 @@
 | Coding Interview University | `github-repo` | [Repository Link](https://github.com/jwasham/coding-interview-university) |
 | Awesome Algorithms | `github-repo` | [Repository Link](https://github.com/tayllan/awesome-algorithms) |
 
-### Websites
+### 🌐 Websites
 
 - [Roadmap to learn DSA by Neetcode](https://neetcode.io/roadmap)
 - [VisuAlgo](https://visualgo.net/en)
 - [Data Structure Visualization](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html)
 
-### Courses
+### 🎓 Courses
 
 - [Neetcode Courses](https://neetcode.io/courses)
   - [Algorithms & Data Structures for Beginners Notes](#algorithms--data-structures-for-beginners---neetcode)
@@ -70,7 +70,7 @@
 - [The Last Algorithms Course You'll Need](https://frontendmasters.com/courses/algorithms/)
   - [Notes from the course](#the-last-algorithms-course-youll-need)
 
-### 🎥 YouTube Playlists
+### 𝚈𝚘𝚞𝚝𝚞𝚋𝚎 YouTube Playlists
 
 - [Algorithms and Data Structures Tutorial - Full Course for Beginners - FreeCodeCamp](https://youtu.be/8hly31xKli0?si=HmAgr-2AlG3hcRZp)
   - [Notes from the video](#algorithms-and-data-structures-tutorial---freecodecamp)
