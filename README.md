@@ -26,7 +26,7 @@
 
 
 ```ruby
-   "Have Fun Learning"
+   Have Fun Learning
 ```
 </details>
 
