@@ -70,14 +70,14 @@
 - [The Last Algorithms Course You'll Need](https://frontendmasters.com/courses/algorithms/)
   - [Notes from the course](#the-last-algorithms-course-youll-need)
 
-### 𝚈𝚘𝚞𝚝𝚞𝚋𝚎 YouTube Playlists
+### 🎥 YouTube Playlists
 
 - [Algorithms and Data Structures Tutorial - Full Course for Beginners - FreeCodeCamp](https://youtu.be/8hly31xKli0?si=HmAgr-2AlG3hcRZp)
   - [Notes from the video](#algorithms-and-data-structures-tutorial---freecodecamp)
 - [Neetcode Videos on YouTube](https://www.youtube.com/@NeetCode)
   - [Notes from the videos](#neetcode-youtube-videos)
 
-### Github Repositories
+### 👾 Github Repositories
 
 - [Coding Interview University](https://github.com/jwasham/coding-interview-university)
 - [Awesome Algorithms](https://github.com/tayllan/awesome-algorithms)
@@ -86,7 +86,7 @@
 - Cracking the Coding Interview
 - Introduction to Algorithms
 
-### Practicing
+### 🏋 Practicing
 - [Leetcode](https://leetcode.com/)
 - [Neetcode](https://neetcode.io/practice)
 - [TopSWE](https://topswe.com/)
@@ -94,7 +94,7 @@
 
 ## 📝 Notes
 
-### Algorithms & Data Structures for Beginners - NeetCode
+### 🧩 Algorithms & Data Structures for Beginners - NeetCode
 ---
 
 <details>
