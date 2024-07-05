@@ -94,7 +94,7 @@
 
 ## 📝 Notes
 
-### 🧩 Algorithms & Data Structures for Beginners - NeetCode
+### Algorithms & Data Structures for Beginners - NeetCode
 ---
 
 <details>
