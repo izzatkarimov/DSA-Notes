@@ -37,6 +37,7 @@
 | --- | --- | --- | --- |
 | LeetCode | `website`| [Website Link](https://leetcode.com) |
 | NeetCode| `website`| [Website Link](https://neetcode.io/practice) |
+| AlgoMap | `website` | [Website Link](https://algomap.io/) |
 | TopSWE | `website`| [Website Link](https://topswe.com/) |
 | LeetCode Patterns | `website` | [Website Link](https://seanprashad.com/leetcode-patterns/) |
 | NeetCode Roadmap | `website` | [Website Link](https://neetcode.io/roadmap) |
