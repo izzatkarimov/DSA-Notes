@@ -260,7 +260,7 @@
 </details>
 
 <details>
-<summary>Alogithms: Sorting and Searching</summary>
+<summary>Algorithms: Sorting and Searching</summary>
 </details>
 
 ### NeetCode YouTube Videos
