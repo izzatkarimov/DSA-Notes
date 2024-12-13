@@ -24,16 +24,14 @@
   - [Notes from the video](#algorithms-and-data-structures-tutorila---freecodecamp)
   - [Notes from the videos](#neetcode-youtube-videos)
 
-
-```ruby
-   Have Fun Learning
-```
 </details>
+
+---
 
 ## 📚 Resources to learn Data Structures & Algorithms
 > The following is a list of online courses, YouTube videos, and websites to help learn Data Structures & Algorithms. Note that these are not in order of completion.
 
-| All Resources in One Place | Resource Type | Links | Notes |
+| All Resources | Type | Links | Notes |
 | --- | --- | --- | --- |
 | LeetCode | `website`| [Website Link](https://leetcode.com) |
 | NeetCode| `website`| [Website Link](https://neetcode.io/practice) |
@@ -55,11 +53,15 @@
 
 ### 🌐 Websites
 
+---
+
 - [Roadmap to learn DSA by Neetcode](https://neetcode.io/roadmap)
 - [VisuAlgo](https://visualgo.net/en)
 - [Data Structure Visualization](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html)
 
 ### 🎓 Courses
+
+---
 
 - [Neetcode Courses](https://neetcode.io/courses)
   - [Algorithms & Data Structures for Beginners Notes](#algorithms--data-structures-for-beginners---neetcode)
@@ -73,6 +75,8 @@
 
 ### 🎥 YouTube Playlists
 
+---
+
 - [Algorithms and Data Structures Tutorial - Full Course for Beginners - FreeCodeCamp](https://youtu.be/8hly31xKli0?si=HmAgr-2AlG3hcRZp)
   - [Notes from the video](#algorithms-and-data-structures-tutorial---freecodecamp)
 - [Neetcode Videos on YouTube](https://www.youtube.com/@NeetCode)
@@ -80,20 +84,30 @@
 
 ### 👾 Github Repositories
 
+---
+
 - [Coding Interview University](https://github.com/jwasham/coding-interview-university)
 - [Awesome Algorithms](https://github.com/tayllan/awesome-algorithms)
 
 ### 📚 Books
+
+---
+
 - Cracking the Coding Interview
 - Introduction to Algorithms
 
 ### 🏋 Practicing
+
+---
+
 - [Leetcode](https://leetcode.com/)
 - [Neetcode](https://neetcode.io/practice)
 - [TopSWE](https://topswe.com/)
 - [LeetCode Patterns](https://seanprashad.com/leetcode-patterns/)
 
 ## 📝 Notes
+
+---
 
 ### Algorithms & Data Structures for Beginners - NeetCode
 
@@ -173,6 +187,8 @@
 <summary>Bit Manipulation</summary>
 </details>
 
+---
+
 ### Advanced Algorithms - NeetCode
 
 <details>
@@ -203,15 +219,21 @@
 <summary>Dynamic Programming</summary>
 </details>
 
+---
+
 ### Python Data Structures & Algorithms + LEETCODE EXERCISES
 
 > [!NOTE]
 > Coming Soon.
 
+---
+
 ### The Last Algorithms Course You'll Need
 
 > [!NOTE]
 > Coming Soon.
+
+---
 
 ### Algorithms and Data Structures Tutorial - FreeCodeCamp
 
@@ -249,6 +271,8 @@
 <details>
 <summary>Algorithms: Sorting and Searching</summary>
 </details>
+
+---
 
 ### NeetCode YouTube Videos
 
