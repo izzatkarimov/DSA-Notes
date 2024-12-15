@@ -2,12 +2,12 @@
 
 ![dsa-banner](https://github.com/izzatkarimov/DSA-Notes/assets/108251704/44dda9d8-a66b-45c8-a602-6487ff6fa762)
 
-## 🗺️ Navigation
+## Overview
+This repository contains my personal notes on Data Structures and Algorithms, with links to websites, courses, books, and other valuable materials.
 
-<details>
-<summary>Navigate Below</summary>
+## Table of Contents
 
-- [Resources](#resources-to-learn-data-structures--algorithms)
+- [Resources](#resources)
   - [Websites](#websites)
   - [Courses](#courses)
   - [YouTube Playlists](#youtube-playlists)
@@ -15,20 +15,16 @@
   - [Books](#books)
   - [Practicing](#practicing)
 - [Notes](#notes)
-  - [Algorithms & Data Structures for Beginners Notes](#algorithms--data-structures-for-beginners---neetcode)
-  - [Advanced Algorithms Notes](#advanced-algorithms---neetcode)
-  - [System Design for Beginners](#system-design-for-beginners---neetcode)
-  - [System Design Interview Notes](#system-design-interview---neetcode)
-  - [Notes from the course](#python-data-structures--algorithms--leetcode-exercises)
-  - [Notes from the course](#the-last-algorithms-course-youll-need)
-  - [Notes from the video](#algorithms-and-data-structures-tutorila---freecodecamp)
-  - [Notes from the videos](#neetcode-youtube-videos)
-
-</details>
+  - [Algorithms & Data Structures for Beginners](#algorithms--data-structures-for-beginners---neetcode)
+  - [Advanced Algorithms](#advanced-algorithms---neetcode)
+  - [Python Data Structures & Algorithms](#python-data-structures--algorithms--leetcode-exercises)
+  - [The Last Algorithms Course You'll Need](#the-last-algorithms-course-youll-need)
+  - [Algorithms and Data Structures by FreeCodeCamp](#algorithms-and-data-structures-tutorial---freecodecamp)
+  - [NeetCode YouTube Videos](#neetcode-youtube-videos)
 
 ---
 
-## 📚 Resources to learn Data Structures & Algorithms
+## Resources
 > The following is a list of online courses, YouTube videos, and websites to help learn Data Structures & Algorithms. Note that these are not in order of completion.
 
 | All Resources | Type | Links | Notes |
@@ -51,7 +47,7 @@
 | Coding Interview University | `github-repo` | [Repository Link](https://github.com/jwasham/coding-interview-university) |
 | Awesome Algorithms | `github-repo` | [Repository Link](https://github.com/tayllan/awesome-algorithms) |
 
-### 🌐 Websites
+### Websites
 
 ---
 
@@ -59,7 +55,7 @@
 - [VisuAlgo](https://visualgo.net/en)
 - [Data Structure Visualization](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html)
 
-### 🎓 Courses
+### Courses
 
 ---
 
@@ -73,7 +69,7 @@
 - [The Last Algorithms Course You'll Need](https://frontendmasters.com/courses/algorithms/)
   - [Notes from the course](#the-last-algorithms-course-youll-need)
 
-### 🎥 YouTube Playlists
+### YouTube Playlists
 
 ---
 
@@ -82,21 +78,21 @@
 - [Neetcode Videos on YouTube](https://www.youtube.com/@NeetCode)
   - [Notes from the videos](#neetcode-youtube-videos)
 
-### 👾 Github Repositories
+### Github Repositories
 
 ---
 
 - [Coding Interview University](https://github.com/jwasham/coding-interview-university)
 - [Awesome Algorithms](https://github.com/tayllan/awesome-algorithms)
 
-### 📚 Books
+### Books
 
 ---
 
 - Cracking the Coding Interview
 - Introduction to Algorithms
 
-### 🏋 Practicing
+### Practicing
 
 ---
 
@@ -105,7 +101,7 @@
 - [TopSWE](https://topswe.com/)
 - [LeetCode Patterns](https://seanprashad.com/leetcode-patterns/)
 
-## 📝 Notes
+## Notes
 
 ---
 
@@ -113,34 +109,33 @@
 
 <details>
 <summary>Arrays</summary>
-  
-<br>
 
-  `What is Data Structure?`
-  - Data Structure is a way of structuring data inside of RAM of a computer.
+`What is Data Structure?`
+- Data Structure is a way of structuring data inside of RAM of a computer.
 
-  `How do ew store an array in RAM?`
-  - RAM is measured in bytes. One byte is 8 bits. A bit can be thought of as a position that can store a digit, which has to be either 0 or 1.
+`How do ew store an array in RAM?`
+- RAM is measured in bytes. One byte is 8 bits. A bit can be thought of as a position that can store a digit, which has to be either 0 or 1.
 
-  `NOTE!`
-  - Arrays are always stored contiguously in RAM, meaning that they are stored one next to another (there is nothing between them.
+`NOTE!`
+- Arrays are always stored contiguously in RAM, meaning that they are stored one next to another (there is nothing between them.
 
-  `NOTE!`
-  - Static arrays are Fixed arrays. The biggest limitation of Static Arrays is that we cannot add / delete elements after creation. Technically, we can remove a value, but removing here only means overriding. We cannot actaully delete the value in memory. But, we can override by putting, let's say, 0 in the index location of it.
+`NOTE!`
+- Static arrays are Fixed arrays. The biggest limitation of Static Arrays is that we cannot add / delete elements after creation. Technically, we can remove a value, but removing here only means overriding. We cannot actaully delete the value in memory. But, we can override by putting, let's say, 0 in the index location of it.
 
-  `Big O Time Complexity of Static Arrays Operations`
-  | Operation  | Big O Time |
-  | ------------- | ------------- |
-  | Read / Write i-th element  | O(1)  |
-  | Insert / Remove End | O(1)  |
-  | Insert Middle | O(n)  |
-  | Remove Middle  | O(n)  |
+`Big O Time Complexity of Static Arrays Operations`
 
-  `NOTE!`
-  - In Python and JavaScript, Dynamic Arrays are the default. In Java, we can use an Array List, and in C++, we can use a Vector.
+| Operation  | Big O Time | 
+| ------------- | ------------- |
+| Read / Write i-th element  | O(1)  |
+| Insert / Remove End | O(1)  |
+| Insert Middle | O(n)  |
+| Remove Middle  | O(n)  |
 
-  `What is Amortized Time Complexity?`
-  - Amortized Time Complexity 
+`NOTE!`
+- In Python and JavaScript, Dynamic Arrays are the default. In Java, we can use an Array List, and in C++, we can use a Vector.
+
+`What is Amortized Time Complexity?`
+- Amortized Time Complexity
 </details>
 
 <details>
@@ -240,27 +235,32 @@
 <details>
 <summary>Introduction to Algorithms</summary>
 
-  ### Introduction to Algorithms
-  ----
-  - `What is an Algorithm` - An Algorithm is a set of steps or instructions for completing a certain task. For example, a recipe is an algorithm. To-Do List for a Morning Routine is an algorithm. However, in the context of Computer Science, an algorithm more specifically means a set a steps a program takes to finish a certain task.
+`What is an Algorithm`
+- An Algorithm is a set of steps or instructions for completing a certain task. For example, a recipe is an algorithm. To-Do List for a Morning Routine is an algorithm. However, in the context of Computer Science, an algorithm more specifically means a set a steps a program takes to finish a certain task.
 
-  - `Time Complexity` - Time Complexity is a measure of how long it takes the algorithm to run.
+`Time Complexity`
+- Time Complexity is a measure of how long it takes the algorithm to run.
 
-  - `Space Complexity` - Space Complexity deals with the amount of memory taken up on the computer.
-  
-  - `Balance between Time & Space Complexity` -  A good algorithm needs to balance between Time and Space Complexity to be useful. For example, you can have a very fast algorithm but it may not matter if the algorithm consumes more memory than you have available.
-  
-  - `Running Time of an Algorithm` - How long the algorithm runs for a given set of values until the output is called The Running Time or The Running Time of an Algorithm and is used to define Time Complexity.
-  
-  - `Linear Search (Sequential Search)` - Linear Search is a sequential searching algorithm where we start from one end and check every element of the list until the desired element is found. It is the simplest searching algorithm.
-  
-  - `Binary Search (Hald Interval Search)` - Binary Search is a searching algorithm for finding an element's position in a sorted way. In this approach, the element is always searched in the middle of a portion of an array. Binary Search can be implemented only on a sorted list of items. If the elements are not sorted already, we need to sort them first.
-  
-  - `Guidelines for defiing an Algorithm:`
-      - The steps in the Algorithm need to be in a specific order.
-      - The steps also need to be distinct.
-      - The algorithm should produce a result.
-      - The algorithm should complete in a finite amount of time.
+`Space Complexity`
+- Space Complexity deals with the amount of memory taken up on the computer.
+
+`Balance between Time & Space Complexity`
+- A good algorithm needs to balance between Time and Space Complexity to be useful. For example, you can have a very fast algorithm but it may not matter if the algorithm consumes more memory than you have available.
+
+`Running Time of an Algorithm`
+- How long the algorithm runs for a given set of values until the output is called The Running Time or The Running Time of an Algorithm and is used to define Time Complexity.
+
+`Linear Search (Sequential Search)`
+- Linear Search is a sequential searching algorithm where we start from one end and check every element of the list until the desired element is found. It is the simplest searching algorithm.
+
+`Binary Search (Hald Interval Search)`
+- Binary Search is a searching algorithm for finding an element's position in a sorted way. In this approach, the element is always searched in the middle of a portion of an array. Binary Search can be implemented only on a sorted list of items. If the elements are not sorted already, we need to sort them first.
+
+`Guidelines for defiing an Algorithm:`
+  - The steps in the Algorithm need to be in a specific order.
+  - The steps also need to be distinct.
+  - The algorithm should produce a result.
+  - The algorithm should complete in a finite amount of time.
 
 </details>
 
